@@ -72,8 +72,10 @@ The Aeries demo website can be used to test your [Code](https://demo.aeries.net/
  
 We need to raise the trust in the quality of the project as high as possible before releasing it to customers.
 The scope of the final project for <strong>ITF Manual Testing Course</strong> is to use all gained knowledge through the course and apply them in practice, using an available application. 
-Application under test: https://demo.guru99.com/V4/index.php 
-Application documentation:  https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit 
+
+Application [Under Test](https://www.aeries.com/solutions/demo/) 
+
+Application [Documentation](https://support.aeries.com/support/solutions/articles/14000077926-aeries-api-full-documentation/)
 
 #### 1.2 Functionalities in scope
  
