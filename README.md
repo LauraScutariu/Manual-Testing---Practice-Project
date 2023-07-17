@@ -11,7 +11,7 @@
 
 ## 1. Introduction
    
-  #### 1.1 Project objective
+   #### 1.1 Project objective
 
   #### 1.2 Functionalities in scope
 
