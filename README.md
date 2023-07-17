@@ -66,7 +66,7 @@ When a district creates a certificate for a vendor, they can grant access to cer
 
 It is VERY important to NEVER share or expose your district-issued certificate to end users. That includes being output to the client in Javascript or HTML. All uses of the certificate should be from your server to the district's Aeries web server.
 
-The Aeries demo website can be used to test your [Code](https://demo.aeries.net/aeries/). The certificate for the demo website that you can use is "477abe9e7d27439681d62f4e0de1f5e1". You can also log into the demo website using the username "admin" and password "admin". Your certificate is case-sensitive!
+The Aeries demo website can be used to test your [Code](https://demo.aeries.net/aeries/). The certificate for the demo website that you can use is "477abe9e7d27439681d62f4e0de1f5e1". You can also log into the demo website using the username "admin" and password "admin". <strong>Your certificate is case-sensitive!</strong>
 
 #### 1.1 Project Objective
  
