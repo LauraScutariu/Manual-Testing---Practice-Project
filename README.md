@@ -67,37 +67,40 @@ Roles and responsibilities
 | TESTER | Laura Scutariu | I test: | 
 | --- | --- | --- |
 
+##### Entry criteria:
+- functional business specifications are defined ;
+- roles needed for the project are allocated ;
+- testing environment is up and running ;
+- smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing).
 
+##### Exit criteria:
+- all test cases have been executed ;
+- 90% of tests are passed ;
+- no Critical issues/bugs have Open status (All unresolved bugs have low priority and low severity) ;
+- exploratory testing performed on the features: Add funds, Withdraw funds, Send money ;
+- update tests are 100% passed (update tests will not generate other new issues that impact the application).
+  
+##### Risks:
+- user data (banking related data, funds, transactions, etc) might be impacted with update tests ;
+- stability risks (crashes, disconnects, etc) ;
+- IE browser might have performance issues ;
+- versions of IE older than 1.5923e have security vulnerabilities (we could mention what vulnerabilities are) ;
+- the web page pagination could be impacted when opened on mobile devices ;
+- stress conditions might impact the web application ;
+ -new browser might not be supported .
+  
+#### 2.2 Test analysis 
 
-Entry criteria:
-functional business specifications are defined
-roles needed for the project are allocated
-testing environment is up and running
-smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing)
+- The testing process will be done based on the requirements for features: Add funds, Withdraw funds, Send money
+- we plan on running a full regression test on the current version
 
-Exit criteria:
-all test cases have been executed 
-90% of tests are passed
-no Critical issues/bugs have Open status (All unresolved bugs have low priority and low severity)
-exploratory testing performed on the features: Add funds, Withdraw funds, Send money
-update tests are 100% passed (update tests will not generate other new issues that impact the application)
-Risks:
-user data (banking related data, funds, transactions, etc) might be impacted with update tests
-stability risks (crashes, disconnects, etc)
-IE browser might have performance issues
-versions of IE older than 1.5923e have security vulnerabilities (we could mention what vulnerabilities are)
-the web page pagination could be impacted when opened on mobile devices
-stress conditions might impact the web application
-new browser might not be supported 
-2.2 Test analysis 
-The testing process will be done based on the requirements for features: Add funds, Withdraw funds, Send money
-we plan on running a full regression test on the current version
+#### 2.3 Test design
 
-2.3 Test design
-All the test cases are written and reviewed 
-Functional test cases will be created in Zephyr Squad using Jira as Test Management tool
-GUI test cases will be created in Zephyr Squad using Jira as Test Management tool
-2.4 Test implementation
+- All the test cases are written and reviewed 
+- Functional test cases will be created in Zephyr Squad using Jira as Test Management tool
+- GUI test cases will be created in Zephyr Squad using Jira as Test Management tool
+
+#### 2.4 Test implementation
 all the test data is available and reviewed (test data= email examples, password examples, different type of currency, different types of credit cards)
 this test run includes only regression testing in which we will run tests that have the highest priority, this will be main priority
 Cycle summary was created and test cases were added to the cycle summary 
