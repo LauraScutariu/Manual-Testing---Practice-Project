@@ -1,12 +1,12 @@
-# Orange HRM Manual Testing Practical Project
-Test Plan -
+   # Orange HRM Manual Testing Practical Project
+Test Plan 
 
 | DATE| DESCRIPTION | AUTOR | COMMENTS |
 | --- | --- | --- | --- |
 | 01.09.2023| Test Plan for Version 1.0 | Laura Scutariu | --- |
 
-Introduction
-Project objective
+## 1. Introduction
+### 1.1 Project objective
 Functionalities in scope
 Functionalities and tests out of scope
 Test process
