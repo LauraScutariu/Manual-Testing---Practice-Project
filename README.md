@@ -28,19 +28,19 @@ Test Plan
 #### 3.8 Test completion report
 
 
-## 1. Introduction
+   ## 1. Introduction
 
 The Guru99 Bank project aims to provide a net banking facility to its customers.
 This release will have limited features. Over a period of time , new and new functionalities will be added to the site.
 
- #### 1.1 Project Objective
+#### 1.1 Project Objective
  
 We need to raise the trust in the quality of the project as high as possible before releasing it to customers.
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using an available application. 
 Application under test: https://demo.guru99.com/V4/index.php 
 Application documentation:  https://docs.google.com/document/d/1rPW5DV82VJT6vtA1VDSrfxaCBuAduxW0zb1yfTh_VMk/edit 
 
- #### 1.2 Functionalities in scope
+#### 1.2 Functionalities in scope
  
 Here we should write all the functionalities that are included in the release.
 e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report, Transactions of the account, Remaining funds, Security settings, Security Improvements
@@ -58,7 +58,7 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 
 
   
-## 2. Test process
+  ## 2. Test process
 
 #### 2.1 Test planning
 
@@ -115,37 +115,44 @@ Roles and responsibilities
   
 #### 2.6 Test closure
 
-At least 90% of tests are passed
-No Critical issues have Open status
-Exploratory testing have been performed
+- At least 90% of tests are passed ;
+- No Critical issues have Open status ;
+- Exploratory testing have been performed .
 
-2.7 Test monitoring and control
-Various periodic reports (daily/weekly/bi-weekly) will be generated to reflect the current status of the testing process. 
+#### 2.7 Test monitoring and control
+- Various periodic reports (daily/weekly/bi-weekly) will be generated to reflect the current status of the testing process. 
 
-Test deliverables	
+  ## 3. Test deliverables	
 
-  Test plan - link to test plan
-The Test Plan is designed to describe all the details of testing for the following features: Add funds, Withdraw funds, Send money from Guru99 application
-The plan identifies the items and the features to be tested, the type of testing to be performed, the roles and responsibilities for testing process, the risks associated with the plan, the resources and schedule required to complete testing. 
+#### 3.1 Test plan - link to test plan
+- The Test Plan is designed to describe all the details of testing for the following features: Add funds, Withdraw funds, Send money from Guru99 application ;
+- The plan identifies the items and the features to be tested, the type of testing to be performed, the roles and responsibilities for testing process, the risks associated with the plan, the resources and schedule required to complete testing. 
 
-  Test conditions 
- -  we will use test environment
- - testing using new accounts and older account is necessary
-The following test conditions could be found here: *vom adauga link catre document cu test conditions create si incarcate pe github. Test conditions vor fi exportate din Jira.
-  Test cases
- - The test cases with steps could be found here: *vom adauga link catre document cu test cases create si incarcate pe github. Test cases vor fi exportate din Jira. 
-  Daily/Weekly/Bi-weekly test summary report
- - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) *vom adauga link catre screenshot cu cu test summary report incarcat pe github SAU incarcam imaginea cu raportul direct pe github. Raportul va fi generat din Jira pe masura ce executam test caseurile. 
-  Traceability matrix
+#### 3.2 Test conditions 
+-  we will use test environment ;
+- testing using new accounts and older account is necessary ;
+- The following test conditions could be found here: *vom adauga link catre document cu test conditions create si incarcate pe github. Test conditions vor fi exportate din Jira.
+
+#### 3.3 Test cases
+ - The test cases with steps could be found here: *vom adauga link catre document cu test cases create si incarcate pe github. Test cases vor fi exportate din Jira.
+
+#### 3.4 Daily/Weekly/Bi-weekly test summary report
+ - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) *vom adauga link catre screenshot cu cu test summary report incarcat pe github SAU incarcam imaginea cu raportul direct pe github. Raportul va fi generat din Jira pe masura ce executam test caseurile.
+    
+#### 3.5 Traceability matrix
  - Link to traceability matrix *vom incarca pe github un screenshot din Jira
-  Test case results
- -  The test cases results could be found here: *vom adauga link catre document cu test cases executate si incarcate pe github. Test cases results vor fi exportate din Jira. 
-  Bugs report
- - The bugs reported could be found here: *vom adauga link catre document cu defectele raportate in Jira pt test case-urile failed 
-  Test completion report
+   
+#### 3.6 Test case results
+ -  The test cases results could be found here: *vom adauga link catre document cu test cases executate si incarcate pe github. Test cases results vor fi exportate din Jira.
+   
+#### 3.7 Bugs report
+ - The bugs reported could be found here: *vom adauga link catre document cu defectele raportate in Jira pt test case-urile failed
+   
+#### 3.8 Test completion report
  - link to test completion report (Test cases ran, how many TC are passed and how many are failed)
    *vom adauga screenshot cu test completion report din Jira la sfarsitul testarii (toate test case-urile au fost executate)
-  Schedule
+   
+#### 3.9 Schedule
  - we have 10 days of testing
  - we have 30 functional and GUI tests
  - in order to finish the regression run we would need to run an ~ of 3 tests/day
