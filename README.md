@@ -36,7 +36,6 @@
 
 
 
-
    ## 1. Introduction
     
 <p>The Guru99 Bank project aims to provide a net banking facility to its customers.
