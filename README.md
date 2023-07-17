@@ -28,7 +28,9 @@ Test Plan
 #### 3.8 Test completion report
 
 
-Introduction
+## Introduction
+
+#### 1.1 Project objective
 The Guru99 Bank project aims to provide a net banking facility to its customers.
 This release will have limited features. Over a period of time , new and new functionalities will be added to the site.
 
