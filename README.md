@@ -56,6 +56,18 @@ Not every customer has a public-facing instance of Aeries for you to tap into th
 Some districts will only have an instance of Aeries available to you through a Windows-authenticated URL. This happens when a district is not using the Aeries Parent/Student Portal and only has an instance of Aeries for Teachers accessible through the Internet and that access point is secured using Active Directory Integration / Windows Authentication (i.e., no anonymous access to the website).
 The majority of customers will use SSL, though some may not. So, besides needing to code for both anonymous and Windows-authenticated requests, you need to code for both HTTPS and HTTP. Aeries Software ALWAYS recommends the use of HTTPS, but self-hosted customers are responsible for this decision.
 
+<strong>Certificate and Security Permissions</strong>.
+
+Each district will issue you a certificate that is unique for that district. 
+
+*A "certificate" for purposes of interacting with the Aeries API is a 32-character alphanumeric string.*
+
+When a district creates a certificate for a vendor, they can grant access to certain APIs and restrict access to others. This document describes the security area that each endpoint requires. It would be prudent to document the security areas that you need access to and relay that information to your customers.
+
+It is VERY important to NEVER share or expose your district-issued certificate to end users. That includes being output to the client in Javascript or HTML. All uses of the certificate should be from your server to the district's Aeries web server.
+
+The Aeries demo website can be used to test your [Code](https://demo.aeries.net/aeries/). The certificate for the demo website that you can use is "477abe9e7d27439681d62f4e0de1f5e1". You can also log into the demo website using the username "admin" and password "admin". Your certificate is case-sensitive!
+
 #### 1.1 Project Objective
  
 We need to raise the trust in the quality of the project as high as possible before releasing it to customers.
