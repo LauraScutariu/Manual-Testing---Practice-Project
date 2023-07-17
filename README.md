@@ -1,14 +1,19 @@
    # Orange HRM Manual Testing Practical Project
+   
 Test Plan 
+
 
 | DATE| DESCRIPTION | AUTOR | COMMENTS |
 | --- | --- | --- | --- |
 | 01.09.2023| Test Plan for Version 1.0 | Laura Scutariu | --- |
 
+
 ## 1. Introduction
 #### 1.1 Project objective
 #### 1.2 Functionalities in scope
 #### 1.3 Functionalities and tests out of scope
+
+
 ## 2. Test process
 #### 2.1 Test planning
 #### 2.2 Test analysis
@@ -17,6 +22,8 @@ Test Plan
 #### 2.5 Test execution
 #### 2.6 Test closure
 #### 2.7 Test monitoring and control
+
+
 ## 3. Test deliverables
 #### 3.1 Test plan
 #### 3.2 Test conditions
@@ -29,7 +36,8 @@ Test Plan
 
 
 
-   ##    1. Introduction
+
+   ## 1. Introduction
     
 The Guru99 Bank project aims to provide a net banking facility to its customers.
 This release will have limited features. Over a period of time , new and new functionalities will be added to the site.
