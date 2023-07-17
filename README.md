@@ -79,16 +79,15 @@ Application [Documentation](https://support.aeries.com/support/solutions/article
 
 #### 1.2 Functionalities in scope
  
-Here we should write all the functionalities that are included in the release.
-e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report, Transactions of the account, Remaining funds, Security settings, Security Improvements
+Building a request , School Information , Pre-Enrollment of Students , Students grades , Attendance and Enrollment , Scheduling and Gradebook .
 
-- The features in scope for testing: Add funds, Withdraw funds, Send money
+- The features in scope for testing: Windows authentication , HTTPS, HTTP
 - Testing types used: functional testing, GUI testing
 
 
 #### 1.3 Functionalities and tests out of scope
 
-- The features out of scope: Monthly funds report, Transactions of the account, Remaining funds, Security settings, Security Improvements
+- The features out of scope: Security Improvements ,there is no application to test, except this site
 - Non-functional testing like stress, performance is beyond scope of this project.
 - No QA support for mobile applications developed. Only web applications will be tested.
 - Automation testing is beyond scope.
@@ -106,7 +105,6 @@ Roles and responsibilities
 
 ##### Entry criteria:
 - functional business specifications are defined ;
-- roles needed for the project are allocated ;
 - testing environment is up and running ;
 - smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing).
 
@@ -114,15 +112,14 @@ Roles and responsibilities
 - all test cases have been executed ;
 - 90% of tests are passed ;
 - no Critical issues/bugs have Open status (All unresolved bugs have low priority and low severity) ;
-- exploratory testing performed on the features: Add funds, Withdraw funds, Send money ;
+- exploratory testing performed on the features: Windows authentication , HTTPS, HTTP ;
 - update tests are 100% passed (update tests will not generate other new issues that impact the application).
   
 ##### Risks:
-- user data (banking related data, funds, transactions, etc) might be impacted with update tests ;
+- user data (school information,students grades,staff information, etc) might be impacted with update tests ;
 - stability risks (crashes, disconnects, etc) ;
 - IE browser might have performance issues ;
-- versions of IE older than 1.5923e have security vulnerabilities (we could mention what vulnerabilities are) ;
-- the web page pagination could be impacted when opened on mobile devices ;
+- versions of IE older than have security vulnerabilities (we could mention what vulnerabilities are) ;
 - stress conditions might impact the web application ;
  -new browser might not be supported .
   
