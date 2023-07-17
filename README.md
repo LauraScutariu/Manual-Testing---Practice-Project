@@ -1,6 +1,7 @@
   > # Orange HRM Manual Testing Practical Project
 
- #### Test Plan 
+
+ ## Test Plan 
 
 
 | DATE| DESCRIPTION | AUTOR | COMMENTS |
