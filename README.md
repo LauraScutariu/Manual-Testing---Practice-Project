@@ -8,13 +8,13 @@ Test Plan
 | 01.09.2023| Test Plan for Version 1.0 | Laura Scutariu | --- |
 
 
-   ## 1. Introduction
+## 1. Introduction
 #### 1.1 Project objective
 #### 1.2 Functionalities in scope
 #### 1.3 Functionalities and tests out of scope
 
 
-   ## 2. Test process
+## 2. Test process
 #### 2.1 Test planning
 #### 2.2 Test analysis
 #### 2.3 Test design
@@ -24,7 +24,7 @@ Test Plan
 #### 2.7 Test monitoring and control
 
 
-   ## 3. Test deliverables
+## 3. Test deliverables
 #### 3.1 Test plan
 #### 3.2 Test conditions
 #### 3.3 Test cases
