@@ -9,12 +9,14 @@
 
 
   ## 1. Introduction 
+  
 #### 1.1 Project objective
 #### 1.2 Functionalities in scope
 #### 1.3 Functionalities and tests out of scope
 
 
 ## 2. Test process
+
 #### 2.1 Test planning
 #### 2.2 Test analysis
 #### 2.3 Test design
@@ -25,6 +27,7 @@
 
 
 ## 3. Test deliverables
+
 #### 3.1 Test plan
 #### 3.2 Test conditions
 #### 3.3 Test cases
