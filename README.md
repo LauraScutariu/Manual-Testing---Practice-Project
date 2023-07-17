@@ -100,7 +100,7 @@ Building a request , School Information , Pre-Enrollment of Students , Students 
 
 Roles and responsibilities
 
-| TESTER | Laura Scutariu | I test: | 
+| TESTER | Laura Scutariu | I test: Windows authentication , HTTPS, HTTP | 
 | --- | --- | --- |
 
 ##### Entry criteria:
@@ -125,7 +125,7 @@ Roles and responsibilities
   
 #### 2.2 Test analysis 
 
-- The testing process will be done based on the requirements for features: Add funds, Withdraw funds, Send money ;
+- The testing process will be done based on the requirements for features: using Section-Staff records,adjustments may have to made to vendors' code,Windows-authenticated requests,HTTPS and HTTP ;
 - we plan on running a full regression test on the current version .
 
 #### 2.3 Test design
@@ -136,10 +136,10 @@ Roles and responsibilities
 
 #### 2.4 Test implementation
 
-- all the test data is available and reviewed (test data= email examples, password examples, different type of currency, different types of credit cards) ;
+- all the test data is available and reviewed (test data= email examples, password examples, students grades , school information , staff information ,gradebook ) ;
 - this test run includes only regression testing in which we will run tests that have the highest priority, this will be main priority ;
 - Cycle summary was created and test cases were added to the cycle summary ;
-- Test environment is up and running: https://demo.guru99.com/V4/index.php .
+- Test environment is up and running: (https://www.aeries.com/solutions/demo/) .
   
 #### 2.5 Test execution
 
