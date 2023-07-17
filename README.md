@@ -64,8 +64,7 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 
 Roles and responsibilities
 
-| TESTER| Laura Scutariu | I test |
-
+| TESTER | Laura Scutariu | I test |
 | --- | --- | --- | --- |
 
 
