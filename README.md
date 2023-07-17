@@ -1,6 +1,7 @@
   > # Orange HRM Manual Testing Practical Project
+
    
- Test Plan 
+ #### Test Plan 
 
 
 | DATE| DESCRIPTION | AUTOR | COMMENTS |
@@ -129,7 +130,8 @@ Roles and responsibilities
 - Exploratory testing have been performed .
 
 #### 2.7 Test monitoring and control
-- Various periodic reports (daily/weekly/bi-weekly) will be generated to reflect the current status of the testing process. 
+- Various periodic reports (daily/weekly/bi-weekly) will be generated to reflect the current status of the testing process.
+   
 
   ## 3. Test deliverables	
 
