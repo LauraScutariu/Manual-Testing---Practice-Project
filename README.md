@@ -91,25 +91,30 @@ Roles and responsibilities
   
 #### 2.2 Test analysis 
 
-- The testing process will be done based on the requirements for features: Add funds, Withdraw funds, Send money
-- we plan on running a full regression test on the current version
+- The testing process will be done based on the requirements for features: Add funds, Withdraw funds, Send money ;
+- we plan on running a full regression test on the current version .
 
 #### 2.3 Test design
 
-- All the test cases are written and reviewed 
-- Functional test cases will be created in Zephyr Squad using Jira as Test Management tool
-- GUI test cases will be created in Zephyr Squad using Jira as Test Management tool
+- All the test cases are written and reviewed ;
+- Functional test cases will be created in Zephyr Squad using Jira as Test Management tool ;
+- GUI test cases will be created in Zephyr Squad using Jira as Test Management tool .
 
 #### 2.4 Test implementation
-all the test data is available and reviewed (test data= email examples, password examples, different type of currency, different types of credit cards)
-this test run includes only regression testing in which we will run tests that have the highest priority, this will be main priority
-Cycle summary was created and test cases were added to the cycle summary 
-Test environment is up and running: https://demo.guru99.com/V4/index.php 
-2.5 Test execution
-The tests will be executed on the top 4 used browsers: Chrome, Mozilla Firefox, Microsoft Edge, Apple Safari. If time will be available we will extend tests on Opera and Brave browsers
-Test cases will be executed on the created Test Cycle Summary
-Bugs will be reported based on the failed tests
-2.6 Test closure
+
+- all the test data is available and reviewed (test data= email examples, password examples, different type of currency, different types of credit cards) ;
+- this test run includes only regression testing in which we will run tests that have the highest priority, this will be main priority ;
+- Cycle summary was created and test cases were added to the cycle summary ;
+- Test environment is up and running: https://demo.guru99.com/V4/index.php .
+  
+#### 2.5 Test execution
+
+- The tests will be executed on the top 4 used browsers: Chrome, Mozilla Firefox, Microsoft Edge, Apple Safari. If time will be available we will extend tests on Opera and Brave browsers ;
+- Test cases will be executed on the created Test Cycle Summary ;
+- Bugs will be reported based on the failed tests .
+  
+#### 2.6 Test closure
+
 At least 90% of tests are passed
 No Critical issues have Open status
 Exploratory testing have been performed
