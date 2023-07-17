@@ -8,38 +8,38 @@
 | 01.09.2023| Test Plan for Version 1.0 | Laura Scutariu | --- |
 
 
-  ## 1. Introduction 
+>  ## 1. Introduction 
   
-> #### 1.1 Project objective
-> #### 1.2 Functionalities in scope
-> #### 1.3 Functionalities and tests out of scope
+ #### 1.1 Project objective
+ #### 1.2 Functionalities in scope
+ #### 1.3 Functionalities and tests out of scope
 
 
-## 2. Test process
+> ## 2. Test process
 
-> #### 2.1 Test planning
-> #### 2.2 Test analysis
-> #### 2.3 Test design
-> #### 2.4 Test implementation
-> #### 2.5 Test execution
-> #### 2.6 Test closure
-> #### 2.7 Test monitoring and control
-
-
-## 3. Test deliverables
-
-> #### 3.1 Test plan
-> #### 3.2 Test conditions
-> #### 3.3 Test cases
-> #### 3.4 Daily test summary reports
-> #### 3.5 Traceability matrix
-> #### 3.6 Test case results
-> #### 3.7 Bugs report
-> #### 3.8 Test completion report
+ #### 2.1 Test planning
+ #### 2.2 Test analysis
+ #### 2.3 Test design
+ #### 2.4 Test implementation
+ #### 2.5 Test execution
+ #### 2.6 Test closure
+ #### 2.7 Test monitoring and control
 
 
+> ## 3. Test deliverables
 
-   ## 1. Introduction
+ #### 3.1 Test plan
+ #### 3.2 Test conditions
+ #### 3.3 Test cases
+ #### 3.4 Daily test summary reports
+ #### 3.5 Traceability matrix
+ #### 3.6 Test case results
+ #### 3.7 Bugs report
+ #### 3.8 Test completion report
+
+
+
+  > ## 1. Introduction
     
 <p>The Aeries API is a web-based, REST API system. Currently, only certain data sets are updatable through the API, although future versions will contain more updatable objects. The API can output JSON or XML. This document describes all endpoints for the API and how to construct the HTTP Requests.<p>
 
@@ -68,7 +68,7 @@ e.g .(example given) Add funds, Withdraw funds, Send money, Monthly funds report
 
 
   
-  ## 2. Test process
+ > ## 2. Test process
 
 #### 2.1 Test planning
 
@@ -133,7 +133,7 @@ Roles and responsibilities
 - Various periodic reports (daily/weekly/bi-weekly) will be generated to reflect the current status of the testing process.
    
 
-  ## 3. Test deliverables	
+> ## 3. Test deliverables	
 
 #### 3.1 Test plan - link to test plan
 - The Test Plan is designed to describe all the details of testing for the following features: Add funds, Withdraw funds, Send money from Guru99 application ;
