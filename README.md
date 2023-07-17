@@ -41,8 +41,7 @@
 
    ## 1. Introduction
     
-<p>The Guru99 Bank project aims to provide a net banking facility to its customers.
-This release will have limited features. Over a period of time , new and new functionalities will be added to the site.<p>
+<p>The Aeries API is a web-based, REST API system. Currently, only certain data sets are updatable through the API, although future versions will contain more updatable objects. The API can output JSON or XML. This document describes all endpoints for the API and how to construct the HTTP Requests.<p>
 
 #### 1.1 Project Objective
  
