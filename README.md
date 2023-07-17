@@ -1,4 +1,4 @@
-  > # Orange HRM Manual Testing Practical Project 
+  > # <em><strong>Orange HRM Manual Testing Practical Project</strong></em> 
 
   ## Test Plan 
   
