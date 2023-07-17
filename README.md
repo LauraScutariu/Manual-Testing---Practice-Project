@@ -117,7 +117,7 @@ Roles and responsibilities
   
 ##### Risks:
 - user data (school information,students grades,staff information, etc) might be impacted with update tests ;
-- stability risks (crashes, disconnects, etc) ;
+- stability risks [crashes, disconnects,(The certificate is case sensitive) etc)] ;
 - IE browser might have performance issues ;
 - versions of IE older than have security vulnerabilities (we could mention what vulnerabilities are) ;
 - stress conditions might impact the web application ;
