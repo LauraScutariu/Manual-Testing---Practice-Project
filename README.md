@@ -8,7 +8,7 @@ Test Plan
 | 01.09.2023| Test Plan for Version 1.0 | Laura Scutariu | --- |
 
 
-## 1. Introduction
+    ## 1. Introduction
 #### 1.1 Project objective
 #### 1.2 Functionalities in scope
 #### 1.3 Functionalities and tests out of scope
