@@ -44,6 +44,18 @@
     
 <p>The Aeries API is a web-based, REST API system. Currently, only certain data sets are updatable through the API, although future versions will contain more updatable objects. The API can output JSON or XML. This document describes all endpoints for the API and how to construct the HTTP Requests.<p>
 
+> NOTE: This document is intended for use by vendors wishing to interface with the Aeries API. The current version is v5. This version  has been updated to allow for the new Flexible scheduling model using Section-Staff records instead of Teachers. At schools using 
+> the new Flex model, TCH records are not used and may not exist, so adjustments may have to made to vendors' code. Teacher number (TCH.TN) is no longer used and PermanentID has been changed to StudentID throughout the API. Details for every API endpoint are described in each section. All previous versions 1-4 are still available.
+
+
+Things to Know Before You Begin
+
+Join the "Interfacing With Aeries" Google Group for updates and information about the Aeries API: [Interfacing With Aeries](https://groups.google.com/forum/#!forum/interfacing-with-aeries) and [Subscribe](interfacing-with-aeries+subscribe@googlegroups.com)
+Every customer using Aeries will have an independent website with an independent URL. This includes BOTH districts hosted by Aeries Software and those who host their own installations of Aeries.
+Not every customer has a public-facing instance of Aeries for you to tap into the API through. Districts have a wide range of options in the implementation of the Aeries SIS. The vast majority have some public-facing instance of Aeries in their environment, but not EVERY.
+Some districts will only have an instance of Aeries available to you through a Windows-authenticated URL. This happens when a district is not using the Aeries Parent/Student Portal and only has an instance of Aeries for Teachers accessible through the Internet and that access point is secured using Active Directory Integration / Windows Authentication (i.e., no anonymous access to the website).
+The majority of customers will use SSL, though some may not. So, besides needing to code for both anonymous and Windows-authenticated requests, you need to code for both HTTPS and HTTP. Aeries Software ALWAYS recommends the use of HTTPS, but self-hosted customers are responsible for this decision.
+
 #### 1.1 Project Objective
  
 We need to raise the trust in the quality of the project as high as possible before releasing it to customers.
