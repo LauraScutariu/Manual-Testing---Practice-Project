@@ -15,7 +15,7 @@ The plan identifies the items to be tested, the features to be tested, the types
   
 | DATE| DESCRIPTION | AUTOR | COMMENTS |
 | --- | --- | --- | --- |
-| 01.09.2023| Test Plan for Version 1.0 | Laura Scutariu | --- |
+| 01.09.2023| Test Plan for Version 1.0 | Laura Scutariu |  |
   
 
 >>  ## 1. Introduction 
