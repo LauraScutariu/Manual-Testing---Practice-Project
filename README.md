@@ -9,6 +9,9 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
   ## Test Plan 
   
+The Test Plan is designed to describe all details of testing for the Parents & Students module from the Aeries application.
+
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan.
   
 | DATE| DESCRIPTION | AUTOR | COMMENTS |
 | --- | --- | --- | --- |
