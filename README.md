@@ -1,4 +1,4 @@
-  > # <em><strong>Orange HRM Manual Testing Practical Project</strong></em> 
+  > # <em><strong>Final project for ITF Manual Testing Course</strong></em> 
 
   ## Test Plan 
   
