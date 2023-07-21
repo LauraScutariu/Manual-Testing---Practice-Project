@@ -129,9 +129,10 @@ Roles and responsibilities
 - user data (school information,students grades,staff information, etc) might be impacted with update tests ;
 - stability risks [crashes, disconnects,(The certificate is case sensitive) etc)] ;
 - IE browser might have performance issues ;
-- versions of IE older than have security vulnerabilities (we could mention what vulnerabilities are) ;
-- stress conditions might impact the web application ;
- -new browser might not be supported .
+- lack of experience of the QA team ;
+- short deadline of Zephyr Squad trial ;
+- unavailability of test environment
+- validation constraints on the fields might be too restrictive to the end-user.
   
 #### 2.2 Test analysis 
 
