@@ -91,8 +91,8 @@ Application [Documentation](https://support.aeries.com/support/solutions/article
  
 Building a request , School Information , Pre-Enrollment of Students , Students grades , Attendance and Enrollment , Scheduling and Gradebook .
 
-- The features in scope for testing: Windows authentication , HTTPS, HTTP
-- Testing types used: functional testing, GUI testing
+- The features in scope for testing: Windows authentification ,MacOS authentification
+- Testing types used: Functional Testing, Pozitiv Testing,Negativ Testing, GUI testing
 
 
 #### 1.3 Functionalities and tests out of scope
