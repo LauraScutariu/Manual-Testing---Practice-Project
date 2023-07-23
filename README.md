@@ -233,7 +233,7 @@ Roles and responsibilities
  -  The test cases results could be found here: *vom adauga link catre document cu test cases executate si incarcate pe github. Test cases results vor fi exportate din Jira.
    
 #### 3.7 Bugs report
- - The bugs reported could be found here: *vom adauga link catre document cu defectele raportate in Jira pt test case-urile failed
+  [Bugs](https://laurascutariu.atlassian.net/browse/AFPT-10))
    
 #### 3.8 Test completion report
  - link to test completion report (Test cases ran, how many TC are passed and how many are failed)
