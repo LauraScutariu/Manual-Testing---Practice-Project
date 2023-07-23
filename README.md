@@ -92,7 +92,7 @@ Application [Documentation](https://support.aeries.com/support/solutions/article
 Building a request , School Information , Pre-Enrollment of Students , Students grades , Attendance and Enrollment , Scheduling and Gradebook .
 
 - The features in scope for testing:
-  Successful authentication in both the parent and student portals ;
+    Successful authentication in both the parent and student portals ;
   Ability for parents/students to personally manage notification preferences ;
   Ability to allow notifications/alerts to come via SMS ;
   Administrators' ability to assign specific notifications to specific groups or individuals ;
