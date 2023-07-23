@@ -199,7 +199,12 @@ Roles and responsibilities
 - we will use test environment ;
 - testing using new accounts and older account is necessary ;
 - The following test conditions could be found here:
+
   
+
+#### 3.3 Test cases
+ - The test cases with steps could be found here:
+   
   [Ability for parents/students to personally manage notification preferences](https://laurascutariu.atlassian.net/browse/AFPT-3)
   
   [The possibility to allow notifications/alerts to come via SMS to both students and parents](https://laurascutariu.atlassian.net/browse/AFPT-4)
@@ -214,9 +219,6 @@ Roles and responsibilities
   
   [Verify that as a Student I cannot create a new account with a weak password](https://laurascutariu.atlassian.net/browse/AFPT-9)
   
-
-#### 3.3 Test cases
- - The test cases with steps could be found here: *vom adauga link catre document cu test cases create si incarcate pe github. Test cases vor fi exportate din Jira.
 
 #### 3.4 Daily/Weekly/Bi-weekly test summary report
  - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) *vom adauga link catre screenshot cu cu test summary report incarcat pe github SAU incarcam imaginea cu raportul direct pe github. Raportul va fi generat din Jira pe masura ce executam test caseurile.
