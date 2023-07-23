@@ -91,8 +91,18 @@ Application [Documentation](https://support.aeries.com/support/solutions/article
  
 Building a request , School Information , Pre-Enrollment of Students , Students grades , Attendance and Enrollment , Scheduling and Gradebook .
 
-- The features in scope for testing: Windows authentification ,MacOS authentification
-- Testing types used: Functional Testing, Pozitiv Testing,Negativ Testing, GUI testing
+- The features in scope for testing:
+  Successful authentication in both the parent and student portals ;
+  Ability for parents/students to personally manage notification preferences ;
+  Ability to allow notifications/alerts to come via SMS ;
+  Administrators' ability to assign specific notifications to specific groups or individuals ;
+  Integrate notifications into your new workflow process ;
+  Ability to create personal notifications/reminders for tasks .
+- Testing types used:
+  Functional Testing ;
+  Pozitiv Testing ;
+  Negativ Testing ;
+  GUI testing .
 
 
 #### 1.3 Functionalities and tests out of scope
