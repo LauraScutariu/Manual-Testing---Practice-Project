@@ -109,9 +109,9 @@ Building a request , School Information , Pre-Enrollment of Students , Students 
   
   Functional Testing ;
   
-  Pozitiv Testing ;
+  Positive Testing ;
   
-  Negativ Testing ;
+  Negative Testing ;
   
   GUI testing .
 
@@ -131,7 +131,7 @@ Building a request , School Information , Pre-Enrollment of Students , Students 
 
 Roles and responsibilities
 
-| TESTER | Laura Scutariu | I test: Windows authentication , HTTPS, HTTP | 
+| TESTER | Laura Scutariu | I test: Account authentication for parents/students, HTTPS, HTTP | 
 | --- | --- | --- |
 
 ##### Entry criteria:
@@ -157,7 +157,7 @@ Roles and responsibilities
   
 #### 2.2 Test analysis 
 
-- The testing process will be done based on the requirements for features: using Section-Staff records,adjustments may have to made to vendors' code,Windows-authenticated requests,HTTPS and HTTP ;
+- The testing process will be done based on the requirements for features: using Section-Student/Parent records,adjustments may have to made to vendors' code,Windows-authenticated requests,HTTPS and HTTP ;
 - we plan on running a full regression test on the current version .
 
 #### 2.3 Test design
@@ -192,7 +192,7 @@ Roles and responsibilities
 > ## 3. Test deliverables	
 
 #### 3.1 Test plan - link to test plan
-- The Test Plan is designed to describe all the details of testing for the following features: Add funds, Withdraw funds, Send money from Guru99 application ;
+- The Test Plan is designed to describe all the details of testing for the following features: Ability for faculty/staff to personally manage notification preferences; Ability to allow notifications/alerts to come via SMS; Administrators' ability to assign specific notifications to specific groups or individuals; Integrate notifications into your new workflow process; Ability to create personal notifications/reminders for tasks ;
 - The plan identifies the items and the features to be tested, the type of testing to be performed, the roles and responsibilities for testing process, the risks associated with the plan, the resources and schedule required to complete testing. 
 
 #### 3.2 Test conditions 
