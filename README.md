@@ -196,9 +196,10 @@ Roles and responsibilities
 - The plan identifies the items and the features to be tested, the type of testing to be performed, the roles and responsibilities for testing process, the risks associated with the plan, the resources and schedule required to complete testing. 
 
 #### 3.2 Test conditions 
--  we will use test environment ;
+- we will use test environment ;
 - testing using new accounts and older account is necessary ;
-- The following test conditions could be found here: *vom adauga link catre document cu test conditions create si incarcate pe github. Test conditions vor fi exportate din Jira.
+- The following test conditions could be found here:
+  [Ability for parents/students to personally manage notification preferences](https://laurascutariu.atlassian.net/browse/AFPT-3)
 
 #### 3.3 Test cases
  - The test cases with steps could be found here: *vom adauga link catre document cu test cases create si incarcate pe github. Test cases vor fi exportate din Jira.
