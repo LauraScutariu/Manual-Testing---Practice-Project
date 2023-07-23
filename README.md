@@ -221,7 +221,8 @@ Roles and responsibilities
   
 
 #### 3.4 Daily/Weekly/Bi-weekly test summary report
- - link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) *vom adauga link catre screenshot cu cu test summary report incarcat pe github SAU incarcam imaginea cu raportul direct pe github. Raportul va fi generat din Jira pe masura ce executam test caseurile.
+
+ 
 ![test summary report](https://github.com/LauraScutariu/Proiect-Practic-Testare-Manuala-2/blob/d9a6db49cadd86a2653f8bb72982698a3a871465/Captura%CC%86%20de%20ecran%20din%202023-07-23%20la%2012.32.11.png)
     
 #### 3.5 Traceability matrix
