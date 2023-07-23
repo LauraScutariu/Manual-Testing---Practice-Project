@@ -226,7 +226,8 @@ Roles and responsibilities
 ![test summary report](https://github.com/LauraScutariu/Proiect-Practic-Testare-Manuala-2/blob/d9a6db49cadd86a2653f8bb72982698a3a871465/Captura%CC%86%20de%20ecran%20din%202023-07-23%20la%2012.32.11.png)
     
 #### 3.5 Traceability matrix
- - Link to traceability matrix *vom incarca pe github un screenshot din Jira
+
+![Traceability matrix](https://github.com/LauraScutariu/Proiect-Practic-Testare-Manuala-2/blob/297e5b151d830f5cc5330cff5e50a91fef6624c4/Captura%CC%86%20de%20ecran%20din%202023-07-23%20la%2012.43.15.png)
    
 #### 3.6 Test case results
  -  The test cases results could be found here: *vom adauga link catre document cu test cases executate si incarcate pe github. Test cases results vor fi exportate din Jira.
