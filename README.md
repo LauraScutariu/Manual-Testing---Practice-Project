@@ -199,13 +199,21 @@ Roles and responsibilities
 - we will use test environment ;
 - testing using new accounts and older account is necessary ;
 - The following test conditions could be found here:
+  
   [Ability for parents/students to personally manage notification preferences](https://laurascutariu.atlassian.net/browse/AFPT-3)
+  
   [The possibility to allow notifications/alerts to come via SMS to both students and parents](https://laurascutariu.atlassian.net/browse/AFPT-4)
+  
   [Ability to create personal notifications/reminders for tasks](https://laurascutariu.atlassian.net/browse/AFPT-5)
+  
   [Verify that a student can login into the application with credentials](https://laurascutariu.atlassian.net/browse/AFPT-6)
+  
   [As a Student/Parent I want to be able to access the website from different devices](https://laurascutariu.atlassian.net/browse/AFPT-7)
+  
   [Verify that as a Student I cannot create a new account with an email that is already used](https://laurascutariu.atlassian.net/browse/AFPT-8)
+  
   [Verify that as a Student I cannot create a new account with a weak password](https://laurascutariu.atlassian.net/browse/AFPT-9)
+  
 
 #### 3.3 Test cases
  - The test cases with steps could be found here: *vom adauga link catre document cu test cases create si incarcate pe github. Test cases vor fi exportate din Jira.
