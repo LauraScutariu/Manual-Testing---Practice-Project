@@ -106,9 +106,13 @@ Building a request , School Information , Pre-Enrollment of Students , Students 
   Ability to create personal notifications/reminders for tasks .
   
 - Testing types used:
+  
   Functional Testing ;
+  
   Pozitiv Testing ;
+  
   Negativ Testing ;
+  
   GUI testing .
 
 
