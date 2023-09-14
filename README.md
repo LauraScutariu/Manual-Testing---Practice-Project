@@ -5,7 +5,7 @@ The scope of the final project for ITF Manual Testing Course is to use all gaine
 
 The final project will be split into 2 sections: Testing section and SQL section.
 
-Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
+Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench .
 
   ## Test Plan 
   
