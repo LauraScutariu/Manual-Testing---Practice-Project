@@ -7,6 +7,8 @@ The final project will be split into 2 sections: Testing section and SQL section
 
 Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench .
 
+ ># 1. Testing section
+
   ## Test Plan 
   
 The Test Plan is designed to describe all details of testing for the Parents & Students module from the Aeries application.
@@ -243,4 +245,10 @@ Roles and responsibilities
  - we have 10 days of testing
  - we have 30 functional and GUI tests
  - in order to finish the regression run we would need to run an ~ of 3 tests/day
+
+   ># 2. SQL section
+
+Created a database named 'OrangeHRM' and a table named 'Dependents' with all the columns needed to save data per specifications. Performed different queries inside the sql file: [Dependents SQL](link)
+
+
 This is my project at the end of the September 2023 Manual Testing Course. Enjoy!
