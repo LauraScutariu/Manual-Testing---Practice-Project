@@ -248,7 +248,6 @@ Roles and responsibilities
 
    ># 2. SQL section
 
-Created a database named 'Aeries' and a table named 'Dependents' with all the columns needed to save data per specifications. Performed different queries inside the sql file: [Dependents SQL](https://github.com/LauraScutariu/Manual-Testing---Practice-Project/blob/d158f43da262f2157aa525c58b3e2c317c30777e/Aeries.sql)
-
+Created a database named 'Aeries' and a table named 'Dependents' with all the columns needed to save data per specifications. Performed different queries inside the sql file: [Dependents SQL](https://github.com/LauraScutariu/Manual-Testing---Practice-Project/blob/0b089ef12ce180e05f2719dad182e84b88f3e24c/Aeries.sql)
 
 This is my project at the end of the September 2023 Manual Testing Course. Enjoy!
