@@ -232,7 +232,7 @@ Roles and responsibilities
 ![Traceability matrix](https://github.com/LauraScutariu/Proiect-Practic-Testare-Manuala-2/blob/297e5b151d830f5cc5330cff5e50a91fef6624c4/Captura%CC%86%20de%20ecran%20din%202023-07-23%20la%2012.43.15.png)
    
 #### 3.6 Test case results
- -  The test cases results could be found here: *vom adauga link catre document cu test cases executate si incarcate pe github. Test cases results vor fi exportate din Jira.
+ -  The test cases results could be found [here](https://github.com/LauraScutariu/Manual-Testing---Practice-Project/blob/51618dc91f75e5f6565eb125f6b264117bdd0337/ZFJ-issue-export-09-14-2023-242ac113-0001.xlsx).
    
 #### 3.7 Bugs report
   [Bugs](https://laurascutariu.atlassian.net/browse/AFPT-10)
