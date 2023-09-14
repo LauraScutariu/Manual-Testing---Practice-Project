@@ -248,7 +248,7 @@ Roles and responsibilities
 
    ># 2. SQL section
 
-Created a database named 'OrangeHRM' and a table named 'Dependents' with all the columns needed to save data per specifications. Performed different queries inside the sql file: [Dependents SQL](link)
+Created a database named 'Aeries' and a table named 'Dependents' with all the columns needed to save data per specifications. Performed different queries inside the sql file: [Dependents SQL](link)
 
 
 This is my project at the end of the September 2023 Manual Testing Course. Enjoy!
